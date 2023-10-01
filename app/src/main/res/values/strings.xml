@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temprature Converter</string>
+    <string name="Selecter">Select Type To Convert:</string>
+    <string name="CelToFar">Celsius to Fahrenheit</string>
+    <string name="FarToCel">Fahrenheit to Celsius</string>
+    <string name="EnterTempValue">Enter Value To Convert</string>
+    <string name="Convert">Convert</string>
+</resources>
